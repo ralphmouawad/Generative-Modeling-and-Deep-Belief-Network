@@ -9,3 +9,5 @@ II- Generative Modeling on MNIST:
 • Generative Adversarial Network through minimax training procedure. 
 • Denoising Diffusion Probabilistic Model through the Langevin stochastic differential equation (SDE) dynamics (forward and reverse processes).
 • Score Based Modeling through SDE and Euler Maruyama discretization. 
+
+Included few notes on DDPM and SGM.
